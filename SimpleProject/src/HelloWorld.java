@@ -13,6 +13,7 @@ public class HelloWorld {
 		
 		HelloWorld hello = new HelloWorld();
 		hello.printMessage("Hello Git");
+		hello.printMessage("Hello Git");
 	}
 	
 	private void printMessage(String message){
