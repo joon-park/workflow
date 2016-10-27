@@ -11,11 +11,5 @@ public class HelloWorld {
 	public static void main(String args[]){
 		System.out.println("Hello World -- Welcome to Ritesh branch!");
 		
-		HelloWorld hello = new HelloWorld();
-		hello.printMessage("Hello Git");
-	}
-	
-	private void printMessage(String message){
-		System.out.println(message);
 	}
 }
