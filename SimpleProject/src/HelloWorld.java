@@ -11,5 +11,11 @@ public class HelloWorld {
 	public static void main(String args[]){
 		System.out.println("Inside tarak's branch...");
 		
+		HelloWorld hw = new HelloWorld();
+		hw.display("Another message");
+	}
+	
+	private void display(String message){
+		System.out.println(message);
 	}
 }
