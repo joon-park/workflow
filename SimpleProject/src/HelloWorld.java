@@ -14,6 +14,5 @@ public class HelloWorld {
 		System.out.print("hello everyone");
 		System.out.println("changed by tarak.");
 
-		
 	}
 }
